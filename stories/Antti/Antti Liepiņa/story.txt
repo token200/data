@@ -1,0 +1,19 @@
+Antti Liepiņa was a 25-year-old software engineer from Riga, Latvia. He spent most of his days staring at lines of code on his computer screen, trying to fix bugs and improve the performance of his latest project.
+
+Despite his introverted nature, Antti had a passion for solving complex problems. He spent every free moment reading books on mathematics and physics, and he even dabbled in machine learning in his spare time.
+
+One day, while working late at the office, Antti received an unexpected phone call from his childhood friend, Ieva. She was working on a project to create an app that helped people with disabilities navigate public transportation in Riga. The problem was that existing apps didn't account for the nuances of Latvian sign language.
+
+Ieva asked if Antti would be interested in collaborating on her project. At first, he hesitated - coding wasn't exactly his area of expertise, and he thought it was too outside his comfort zone. But then he started thinking about how much he hated seeing people struggle with accessibility issues in his city. He decided to take a chance.
+
+With the help of some online resources and coding tutorials, Antti quickly learned about AI-powered natural language processing and computer vision. He worked tirelessly to develop an algorithm that could accurately translate Latvian sign language into digital format.
+
+As he worked on the project, Antti discovered that his passion for problem-solving wasn't limited to code alone. He found that collaborating with Ieva brought out a different side of himself - one that was more creative and empathetic.
+
+The app was finally ready, and Antti couldn't wait to test it out. Together, he and Ieva launched the app in public transportation hubs across Riga. The response was overwhelming - users praised the app for its accuracy and ease of use.
+
+For Antti, this project marked a turning point. He realized that coding wasn't just about solving problems, but also about making a positive impact on people's lives. He continued to work on Ieva's project, eventually expanding it to other cities in Latvia.
+
+Antti's story spread like wildfire through the tech community, inspiring others to take risks and explore new areas of interest. His friendship with Ieva grew stronger as well - they became co-founders of a non-profit organization that aimed to make technology more accessible to people with disabilities.
+
+Years later, Antti looked back on his journey with pride, knowing that he had found a way to combine his love for problem-solving with his passion for making the world a better place.
