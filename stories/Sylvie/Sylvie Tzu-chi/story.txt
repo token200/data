@@ -1,0 +1,25 @@
+Sylvie Tzu-chi stepped into the dimly lit café, her eyes scanning the room for any sign of her friend, Leo. She spotted him huddled in the corner, sipping on a cup of coffee and staring at his laptop screen with an intense gaze. Sylvie made her way over to him, nodding in greeting as she slid onto the seat across from him.
+
+"Sylvie Tzu-chi," Leo said, not looking up, "I'm so glad you're here. I've been working on this project for hours, and I just can't seem to crack the code."
+
+Sylvie raised an eyebrow, intrigued by her friend's frustration. "What's it about?" she asked, leaning in closer.
+
+Leo gestured vaguely with his hand. "Just a little something I'm working on. It's a bit of a mystery, even to me."
+
+Sylvie smiled knowingly. She and Leo had been friends since college, bonding over their shared love of puzzles and brain teasers. Over the years, they had developed a system for helping each other out – Sylvie would often provide a fresh perspective, while Leo's technical skills proved invaluable.
+
+As they sipped their coffee and pored over Leo's laptop screen, Sylvie began to notice something peculiar. The code seemed...almost...familiar. She couldn't quite put her finger on it, but something about the pattern of 1s and 0s looked eerily similar to a cipher she had learned in cryptography class.
+
+"Leo," she said suddenly, pointing to the screen, "I think I see the problem."
+
+Leo's eyes snapped up, his face lighting up with excitement. "Really? What is it?"
+
+Sylvie leaned in closer, her voice barely above a whisper. "It's a Vigenère cipher. We can decode it using the keyword 'sunrise'."
+
+Leo's eyes widened as he quickly entered the keyword into the code. The screen flickered to life, revealing a hidden message that read: "Meet me at the old oak tree at midnight. Come alone."
+
+Sylvie and Leo exchanged a thrilled glance. It seemed their little mystery had just gotten a whole lot more interesting.
+
+As they gathered up their things to leave, Sylvie smiled at her friend. "Thanks for letting me in on the secret, Leo. I owe you one."
+
+Leo grinned back, his eyes sparkling with mischief. "Anytime, Sylvie Tzu-chi. Now let's go see what this message has in store for us."
