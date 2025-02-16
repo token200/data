@@ -1,0 +1,19 @@
+Based on the inspiration provided by the short story about Péter Wójcik, here is a summary of his personality, physical attributes, and interests:
+
+**Personality:** Péter Wójcik is a reclusive and introspective individual with an air of mystery surrounding him. Despite being highly intelligent and accomplished, he remains humble and private, preferring to keep a low profile. He has a strong sense of justice and uses his exceptional skills for the greater good. His nickname "The Ghost" suggests that he can be enigmatic and elusive at times, but his work speaks for itself.
+
+**Physical Attributes:**
+
+- **Height:** 5'10" (178 cm)
+- **Eye Color:** Dark brown, with a hint of green around the edges
+- **Hair Color:** Jet black, often styled neatly and slicked back to reveal prominent facial features
+
+Péter's physical appearance is unassuming yet striking, reflecting his reserved nature. His dark hair and expressive eyes seem to hold secrets that few are privy to.
+
+**Interests:**
+
+- **Cryptographic Enthusiasm:** Péter is an ardent enthusiast of cryptography and coding, often exploring ancient languages and deciphering codes in his free time.
+- **Computer Science and Mathematics:** He remains passionate about computer science and mathematics, frequently engaging in complex algorithmic puzzles and encryption techniques to challenge himself.
+- **History:** Péter has a deep appreciation for history, particularly the historical context of cryptographic systems used during World War II. He draws inspiration from the pioneering work of his predecessors at Bletchley Park.
+
+Péter's fascination with cryptography drives him to continually update his skills and knowledge, ensuring that he stays ahead in the ever-evolving world of code-breaking.
