@@ -1,0 +1,9 @@
+Here is a summary of Juni Molnar's personality, physical attributes, and interests:
+
+**Personality:** Juni Molnar is a brilliant and resourceful young hacker with a quick wit and sharp mind. She is confident, determined, and driven to succeed, but also has a sense of humility and a willingness to listen to others. Despite her tough exterior, she has a vulnerable side that she only reveals to those she trusts.
+
+**Physical Attributes:** Juni Molnar stands at approximately 5'8" (173 cm) with short, dark brown hair and piercing green eyes. She has a lean and athletic build, honed from years of sitting in front of computers and staying up late into the night.
+
+**Interests:** Juni is passionate about hacking and computer security, and spends most of her free time reading books on cybersecurity, attending online forums and conferences, and participating in hackathons. She is also fascinated by cryptography and coding theory, and enjoys solving complex problems and puzzles. Outside of hacking, she is an avid reader and enjoys exploring the intersection of technology and social justice.
+
+**Skills:** Juni is an expert hacker with expertise in various programming languages, including Python, Java, and C++. She has a strong understanding of computer systems, networks, and security protocols, and is skilled at using tools like Nmap, Metasploit, and Burp Suite to identify vulnerabilities and exploit them.
