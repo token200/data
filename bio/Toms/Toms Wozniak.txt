@@ -1,0 +1,23 @@
+Based on the inspiration from Thomas J. "Steve" Wozniak's life story, I've created a fictional character profile for Toms Wozniak:
+
+**Name:** Toms Wozniak
+**Age:** 35 (equivalent to Steve Wozniak's age during his peak years)
+**Height:** 5'10"
+**Eye Color:** Blue
+
+**Personality:**
+Toms is a brilliant and curious individual, inheriting the same passion for electronics and innovation from his parents. He has a contagious enthusiasm that inspires those around him to explore their own creativity and problem-solving skills. As an advocate for STEM education, Toms is patient and encouraging, making complex concepts accessible to people of all ages.
+
+**Interests:**
+Toms's primary interests are in artificial intelligence, machine learning, and robotics. He enjoys attending conferences, workshops, and hackathons to stay updated on the latest developments in these fields. In his free time, he likes to tinker with electronics, design new gadgets, and participate in coding challenges.
+
+**Work Experience:**
+Toms has worked as a software engineer at a leading tech firm, where he contributed to several high-profile projects involving AI-powered automation and data analytics. He also freelances as a consultant, helping small businesses implement innovative solutions using emerging technologies.
+
+**Education:**
+Toms holds a Bachelor's degree in Computer Science from Stanford University, where he was actively involved in the university's robotics club and hackathon teams. He is currently pursuing a Master's degree in Artificial Intelligence at the University of California, Berkeley (a nod to his inspiration from Steve Wozniak's alma mater).
+
+**Community Involvement:**
+Toms is an active member of various STEM organizations, participating in mentorship programs and outreach initiatives to encourage underrepresented groups to pursue careers in tech. He regularly speaks at local events, sharing his expertise on topics such as AI ethics and responsible innovation.
+
+While this profile draws inspiration from Steve Wozniak's life and achievements, Toms Wozniak is a fictional character with his own unique personality, interests, and experiences.
